@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="activity_main_label_books">Books</string>
+
+
+    <string name="activity_book_hint_name">Nome do livro</string>
+    <string name="activity_book_hint_author">Autor do livro</string>
+    <string name="activity_book_hint_year">Ano de lançamento do livro</string>
+    <string name="activity_book_button_save">Salvar</string>
+    <string name="activity_book_button_remove">Remover</string>
+
+    <string name="general_error_required_field">Campo Obrigatório</string>
+
+
+</resources>
